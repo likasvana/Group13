@@ -1,3 +1,1 @@
-print("hiii alll")
-print("Python")
-python("last")
+print("67"*10000)
